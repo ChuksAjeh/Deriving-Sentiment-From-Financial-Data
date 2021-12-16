@@ -37,7 +37,7 @@ Also this is an opportunity for redesign. I will still use comparison models, bu
 Finally, the idea is to make this a huge repo that will house other ideas such as recession markers. They will likely all be stored on Google Colab so will link to the them there, If I want to make it all fancy with plots and stuff will train the model and save it on colab, and load it locally and visualise the results!
 
 # Other Details and Contact Me!
-The link to the previous repo is: https://github.com/ChuksAjeh/Final-Year-Project-/blob/main/README.md
+The link to the previous repo is: https://github.com/ChuksAjeh/Final-Year-Project-
 
 Again any questions about the paper or the models or results please contact me email is on my profile. Or like me if you're too lazy it's chuksajeh@gmail.com
 
